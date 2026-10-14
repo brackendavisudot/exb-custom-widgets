@@ -1,0 +1,57 @@
+{
+  "name": "custom-column-row",
+  "label": "Custom Column Row",
+  "type": "widget",
+  "widgetType": "LAYOUT",
+  "version": "1.21.0",
+  "exbVersion": "1.21.0",
+  "author": "bdavis1@utah.gov",
+  "description": "An 8-column row with fixed 320px widths and horizontal scrolling.",
+  "properties": {
+    "hasSettingPage": false,
+    "hasConfig": false,
+    "hasBuilderSupportModule": true
+  },
+  "layouts": [
+    {
+      "name": "COLUMN_1",
+      "label": "Column 1",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_2",
+      "label": "Column 2",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_3",
+      "label": "Column 3",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_4",
+      "label": "Column 4",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_5",
+      "label": "Column 5",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_6",
+      "label": "Column 6",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_7",
+      "label": "Column 7",
+      "type": "FIXED"
+    },
+    {
+      "name": "COLUMN_8",
+      "label": "Column 8",
+      "type": "FIXED"
+    }
+  ]
+}
