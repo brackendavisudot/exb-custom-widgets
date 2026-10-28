@@ -1,0 +1,22 @@
+{
+  "tableFields": [],
+  "enableSelect": true,
+  "multipleSelection": true,
+  "enableEditing": false,
+  "columnWidthMode": "standard",
+  "standardColumnWidth": 150,
+  "backgroundColor": "",
+  "textColor": "",
+  "conditionalFormatting": [],
+  "tools": {
+    "showSelection": true,
+    "clearSelection": true,
+    "refresh": true,
+    "sort": true,
+    "actions": true
+  },
+  "actions": {
+    "exportCsv": true,
+    "deleteSelected": false
+  }
+}
