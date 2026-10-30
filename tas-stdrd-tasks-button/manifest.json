@@ -1,0 +1,20 @@
+{
+  "name": "tas-stdrd-tasks-button",
+  "label": "TAS Standard Tasks Button",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "bdavis1@utah.gov",
+  "description": "Adds standard tasks to Traffic And Safety Tracker tasktable",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasSettingPage": true,
+    "hasConfig": true,
+    "supportUseDataSources": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": "jimu-arcgis"
+}
